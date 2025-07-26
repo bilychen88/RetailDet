@@ -25,6 +25,7 @@ The dataset and code will be made available upon paper acceptance.
 ## 📬 Contact
 For questions and collaboration:
 - 📮 Email: bidong.chen@mpu.edu.mo
+- 📮 Email: mddll8945@gmail.com
 - 🔧 Open an [issue](../../issues/new)
 ---
 💡 **Tip:** Before creating a new issue, please check if a similar issue already exists in our [issue tracker](../../issues).
