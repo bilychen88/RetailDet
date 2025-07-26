@@ -1,7 +1,5 @@
 # RetailDet
-<img src="fig1.jpg" alt="RetailDet Detect Result" style="width:49%;float:left;margin-right:1%;">
-<img src="fig2.jpg" alt="RetailDet Detect Result" style="width:49%;float:left;">
-<div style="clear:both;"></div> 
+Coming soon...
 # Purpose
 We aim to design a neural network model to construct a high-performance object detector tailored for few-shot data scenarios, characterized by low-latency inference, and deployable on edge computing devices. Addressing the bottlenecks in existing YOLO-series models, such as limited few-shot generalization capability and suboptimal inference efficiency at the edge, we focus on lightweight architecture design and efficient feature extraction techniques. Our goal is to achieve collaborative optimization of detection accuracy and inference speed, creating a new-generation object detection solution that balances high precision and real-time performance.
 
@@ -17,6 +15,11 @@ The dataset and code will be made available upon paper acceptance.
 - [ ] 📝 Dataset documentation
 - [ ] 📊 Statistics
 - [ ] 📌 Benchmark results
+
+## 🔍 Visual Examples of Detection Results
+<img src="fig1.jpg" alt="RetailDet Detect Result" style="width:45%;float:left;margin-right:1%;">
+<img src="fig2.jpg" alt="RetailDet Detect Result" style="width:45%;float:left;">
+<div style="clear:both;"></div> 
 
 ## 🎯 Benchmark Results
 | Method | Metric1 | Metric2 | Metric3 |
