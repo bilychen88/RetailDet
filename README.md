@@ -17,9 +17,10 @@ The dataset and code will be made available upon paper acceptance.
 - [ ] 📌 Benchmark results
 
 ## 🔍 Visual Examples of Detection Results
-<img src="fig1.jpg" alt="RetailDet Detect Result" style="width:45%;float:left;margin-right:1%;">
-<img src="fig2.jpg" alt="RetailDet Detect Result" style="width:45%;float:left;">
-<div style="clear:both;"></div> 
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="fig1.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
+  <img src="fig2.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
+</div>
 
 ## 🎯 Benchmark Results
 | Method | Metric1 | Metric2 | Metric3 |
