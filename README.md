@@ -8,7 +8,7 @@ This repository contains our research implementation for “RetailDet”.
 The dataset and code will be made available upon paper acceptance.
 
 ## 🔄 Status
-⏳ Paper is currently under review. The code and pretrained weight will be released once accepted.
+⏳ Paper is currently under review. The code and pretrained weights will be released upon acceptance.
 
 ## 📋 Coming Soon
 - [ ] 💾 Dataset download link
