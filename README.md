@@ -1,7 +1,7 @@
 # RetailDet
 Coming soon...
 # Purpose
-We aim to design a neural network model to construct a high-performance object detector tailored for few-shot data scenarios, characterized by low-latency inference, and deployable on edge computing devices. Addressing the bottlenecks in existing YOLO-series models, such as limited few-shot generalization capability and suboptimal inference efficiency at the edge, we focus on lightweight architecture design and efficient feature extraction techniques. Our goal is to achieve collaborative optimization of detection accuracy and inference speed, creating a new-generation object detection solution that balances high precision and real-time performance.
+Our team's research direction: We aim to design a neural network model to construct a high-performance object detector, which is tailored for retail scenarios characterized by high-density distribution and diverse scales. This detector features low-latency inference and can be deployed on edge computing devices. Addressing the bottlenecks in existing YOLO-series models, such as insufficient capability to handle scenarios with high-density distribution and diverse scales, as well as suboptimal inference efficiency at the edge, we focus on researching lightweight architecture design and efficient feature extraction techniques. Our goal is to achieve collaborative optimization of detection accuracy and inference speed, creating a new-generation object detection solution that balances high precision and real-time performance. We welcome all interested researchers to get in touch with us, and let us work together to research intelligent new retail.
 
 ## 📖 Overview
 This repository contains our research implementation for “RetailDet”. 
@@ -11,7 +11,7 @@ The code and pretrained weights will be made available upon paper acceptance.
 ⏳ Paper is currently under review. The code and pretrained weights will be released upon acceptance.
 
 ## 📋 Coming Soon
-- [ ] 💾 Dataset download link
+- [ ] 💾 Project resources download link
 - [ ] 📝 Dataset documentation
 - [ ] 📊 Statistics
 - [ ] 📌 Benchmark results
