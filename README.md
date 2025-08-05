@@ -5,7 +5,7 @@ We aim to design a neural network model to construct a high-performance object d
 
 ## 📖 Overview
 This repository contains our research implementation for “RetailDet”. 
-The dataset and code will be made available upon paper acceptance.
+The code and pretrained weights will be made available upon paper acceptance.
 
 ## 🔄 Status
 ⏳ Paper is currently under review. The code and pretrained weights will be released upon acceptance.
