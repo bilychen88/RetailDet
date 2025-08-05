@@ -19,7 +19,7 @@ The code and pretrained weights will be made available upon paper acceptance.
 ## 🔍 Visual Examples of Detection Results
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <img src="fig1.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
-  <img src="fig2.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
+  <img src="Table 1.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
 </div>
 
 ## 🎯 Benchmark Results
