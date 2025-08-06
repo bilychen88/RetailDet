@@ -28,7 +28,7 @@ The code and pretrained weights will be made available upon paper acceptance.
   <img src="SOTA.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="SOTA.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
+  <img src="sota Table 1.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
 </div>
 
 ## 📬 Contact
