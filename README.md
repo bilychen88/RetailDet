@@ -12,7 +12,7 @@ The code and pretrained weights will be made available upon paper acceptance.
 
 ## 📋 Coming Soon
 - [ ] 💾 Project resources download link
-- [ ] 📝 paper documentation
+- [ ] 📝 paper documentation & project code
 - [ ] 📊 Statistics
 - [ ] 📌 Benchmark results
 
