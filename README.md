@@ -12,23 +12,24 @@ The code and pretrained weights will be made available upon paper acceptance.
 
 ## 📋 Coming Soon
 - [ ] 💾 Project resources download link
-- [ ] 📝 Dataset documentation
+- [ ] 📝 paper documentation
 - [ ] 📊 Statistics
 - [ ] 📌 Benchmark results
 
 ## 🔍 Visual Examples of Detection Results
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="SOTA.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
   <img src="fig1.jpg" alt="RetailDet Detect Result" style="width: 45%; object-fit: contain;">
   <img src="Figure 9.png" alt="absolute Heatmap" style="width: 45%; object-fit: contain;">
   <img src="Figure 11.png" alt="RetailDet Detect Heatmap Result" style="width: 45%; object-fit: contain;">
 </div>
 
 ## 🎯 Benchmark Results
-| Method | Metric1 | Metric2 | Metric3 |
-|--------|---------|---------|---------|
-| Baseline| XX.X%   | XX.X%   | XX.X%   |
-| SOTA    | XX.X%   | XX.X%   | XX.X%   |
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="SOTA.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
+</div>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="SOTA.png" alt="SOTA of RetailDet" style="width: 45%; object-fit: contain;">
+</div>
 
 ## 📬 Contact
 For questions and collaboration:
