@@ -39,5 +39,11 @@ For questions and collaboration:
 
 ## 📝 Citation
 If you use this dataset in your research, please cite our paper:
-```bibtex
+```@article{chen2025retaildet,
+  title={RetailDet: An Efficient Fusion Attention Network for Joint Product and Vacancy Identification in Smart Retail},
+  author={Chen, Bidong and Li, Lingui and Wang, Yapeng and Paiva, Rui Pedro and Lin, Yuanda and Yang, Xu and Zhu, Han},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
 
